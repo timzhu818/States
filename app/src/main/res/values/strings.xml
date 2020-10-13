@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">States</string>
+    <string name="error_in_retrieving_data">Sorry, there\'s error in retrieving data</string>
+    <string name="ok_text">OK</string>
 </resources>
