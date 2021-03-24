@@ -86,3 +86,6 @@ Let's finish up the last bit of bookkeeping and get your work submitted.
 3. Push your local changes to a feature branch
 4. Create a pull request to the `master` branch from your feature branch 
 containing all your solutions.
+
+
+![](gradle/dependency-graph/project.dot.png)
